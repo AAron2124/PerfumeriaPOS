@@ -12,4 +12,11 @@
     <PackageReference Include="MySql.Data" Version="9.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Control_pagos\" />
+    <Folder Include="Reportes_financieros\" />
+    <Folder Include="Ventas_contado\" />
+    <Folder Include="Ventas_credito\" />
+  </ItemGroup>
+
 </Project>

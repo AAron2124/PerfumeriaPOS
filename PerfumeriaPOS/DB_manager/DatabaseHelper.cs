@@ -1,7 +1,7 @@
 ﻿using System;
 using MySql.Data.MySqlClient;
 
-namespace PerfumeriaPOS
+namespace PerfumeriaPOS.DB_manager
 {
     public static class DatabaseHelper
     {

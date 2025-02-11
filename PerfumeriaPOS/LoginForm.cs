@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using PerfumeriaPOS.DB_manager;
 
 namespace PerfumeriaPOS
 {
